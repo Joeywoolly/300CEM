@@ -1,6 +1,7 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="joseph.woollaston@hotmail.co.uk" />
+    <option name="LOGIN" value="woollasj" />
+    <option name="HOST" value="https://github.coventry.ac.uk" />
     <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
